@@ -1,3 +1,5 @@
+# ReadMe https://www.linkedin.com/pulse/connect-splunk-cloudhealth-using-rest-api-zhenrong-daniel-han
+
 import requests, json, datetime, time
 
 # Generate log file for this python scripe
