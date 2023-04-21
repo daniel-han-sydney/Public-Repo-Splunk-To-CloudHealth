@@ -1,5 +1,3 @@
-# ReadMe https://www.linkedin.com/pulse/connect-splunk-cloudhealth-using-rest-api-zhenrong-daniel-han
-
 # Python3.6
 import requests, json, datetime, time
 
